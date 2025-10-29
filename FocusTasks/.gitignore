@@ -1,0 +1,17 @@
+# Xcode
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# SwiftPM
+.build/
+Packages/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Personal configs
+*.xcconfig
